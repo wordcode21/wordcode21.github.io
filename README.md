@@ -214,3 +214,5 @@ Beberapa pilihan di kode ini sengaja diambil untuk alasan keamanan — jangan di
 
 Ganti nama font di `index.html` (link Google Fonts) dan di variabel
 `--font-display` / `--font-body` / `--font-mono` di bagian atas `style.css`.
+
+--re deploy
