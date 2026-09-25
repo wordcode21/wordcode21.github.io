@@ -300,7 +300,7 @@ window.PORTFOLIO = {
   stats: [
     { value: 2, suffix: '+', label: { en: 'Projects delivered', id: 'Proyek selesai' } },
     { value: 18, suffix: '',  label: { en: 'Security audits',    id: 'Audit keamanan' } },
-    { value: 2, suffix: '',  label: { en: 'Avg. Lighthouse',    id: 'Rata-rata Lighthouse' } },
+    { value: 85, suffix: '',  label: { en: 'Avg. Lighthouse',    id: 'Rata-rata Lighthouse' } },
   ],
 
   /* ------------------------------------------------------------ contact */
